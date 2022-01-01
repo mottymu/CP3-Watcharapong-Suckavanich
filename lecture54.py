@@ -28,7 +28,7 @@ def menuSelect():
     elif userSelected == 2:
         print(priceCalculate())
     else:
-        print("Please choose.....")
+        print("Please choose 1 or 2")
         menuSelect()
 
 # VAT Calculator
